@@ -143,3 +143,11 @@ owner, and the default token is enough for public data. Replace `ascii.svg`
 with your own portrait via `make_portrait.py`, then
 `embed_portrait_font.py` to inline the font. Language totals cover public
 repositories only.
+
+For a step-by-step setup on Windows and PowerShell, virtual environments,
+font subsetting with `pyftsubset`, and portrait tuning, see
+[Tyler Rosa's guide](https://github.com/TylersHub/TylersHub/blob/main/animated_ascii_portrait_setup_guide_attributed.md),
+written from going through this repository as a new user.
+
+The code is MIT licensed, see [LICENSE](LICENSE); the portrait pipeline
+started from a Notion guide by an unknown author, noted there.
