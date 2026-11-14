@@ -17,7 +17,7 @@
 > Small, sharp tools over big vague ideas.
 
 I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
+[TruckBuddy](https://github.com/andriidrok1/truck_buddy), a voice copilot for US truck drivers. Also<br>
 deep into markets: Pine Script indicators, backtesting, on-chain data.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
@@ -25,6 +25,10 @@ deep into markets: Pine Script indicators, backtesting, on-chain data.
 <samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[TruckBuddy](https://github.com/andriidrok1/truck_buddy)** &nbsp;·&nbsp; <samp>react native, fastapi, postgres</samp><br>
+Voice copilot for truck drivers: ask out loud for parking, diesel or a truck-safe<br>
+route and keep both hands on the wheel. Checks satellite imagery for rig parking.
 
 **[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
 AI short-form video editor in the browser. Auto captions with accents,<br>
